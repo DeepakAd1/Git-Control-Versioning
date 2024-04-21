@@ -21,6 +21,7 @@ class GFG {
 		int n = 123464321;
 		int reverseN = reversNumber(n);
 		System.out.println("Hello");
+		System.out.println("World");
 		System.out.println("Reverse of n = " + reverseN);
 
 		// Checking if n is same
